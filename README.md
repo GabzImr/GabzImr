@@ -1,5 +1,4 @@
 <br clear="both">
-
 <h3 align="left">Hello!</h3>
 
 ###
@@ -17,14 +16,6 @@
   <img width="25" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" height="45" alt="css logo"  />
 </div>
-
-###
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/GabzImr/GabzImr/pacman-output/galaga-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/GabzImr/GabzImr/pacman-output/galaga-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/GabzImr/GabzImr/pacman-output/galaga-contribution-graph.svg">
-</picture>
 
 ###
 
