@@ -17,13 +17,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" height="45" alt="css logo"  />
 </div>
 
-###
-
-<div align="center">
-  <img src="https://open.spotify.com/intl-pt/track/06tNJ27nVxbDwhiQMChWyr?si=96d1bb8b4bef4971?" alt="Widget with the current Spotify song"  />
-</div>
-
-###
 
 <img align="left" height="270" src="https://i.pinimg.com/1200x/ae/71/e9/ae71e9d12c7d470e303aa24d01d83b59.jpg"  />
 
