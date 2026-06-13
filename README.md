@@ -34,15 +34,15 @@
 
 <div align="right">
   <img src="https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=black&style=for-the-badge" height="22" alt="android logo"  />
-  <img width="10" />
+  <img width="4" />
   <img src="https://img.shields.io/badge/Behance-1769FF?logo=behance&logoColor=white&style=for-the-badge" height="22" alt="behance logo"  />
-  <img width="10" />
+  <img width="4" />
   <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=for-the-badge" height="22" alt="git logo"  />
-  <img width="10" />
+  <img width="4" />
   <img src="https://img.shields.io/badge/Notion-000000?logo=notion&logoColor=white&style=for-the-badge" height="22" alt="notion logo"  />
-  <img width="10" />
+  <img width="4" />
   <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?logo=visualstudiocode&logoColor=white&style=for-the-badge" height="22" alt="vscode logo"  />
-  <img width="10" />
+  <img width="4" />
   <img src="https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=white&style=for-the-badge" height="22" alt="windows8 logo"  />
 </div>
 
